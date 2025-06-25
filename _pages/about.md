@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -20,8 +19,10 @@ redirect_from:
 I'm an Master student at [Optimization and Statistical Inference Lab](https://osi.kaist.ac.kr) in Korea Advanced Institute of Science and Technology (KAIST), under the supervision of [Prof. SEYOUNG YUN](https://fbsqkd.github.io). I'm self-motivated student and love to solve many fun problems related to LLM.  I am generally interested bringing LLMs closer to real world deployment in apps and services.
 
 My research interest includes:
-
 LLM Efficiency, Reasoning, AI Agents
+
+
+📧 Email: [euiin_mercyii@kaist.ac.kr](mailto:euiin_mercyii@kaist.ac.kr)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
