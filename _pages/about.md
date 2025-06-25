@@ -126,7 +126,7 @@ LLM Efficiency, Reasoning, AI Agents
 # 👨🏻‍🏫 Teaching Assistant
 - KAIST AI707 Advanced Topics in Deep Reinforcement Learning, *2024 Fall* -->
 
-#<span class='anchor' id='academic-services'></span>
+<span class='anchor' id='academic-services'></span>
 # 💯 Reviewer
 - EMNLP 2025, ACL 2025, ICML 2025 Workshop MAS, ACL 2025 SRW
 
