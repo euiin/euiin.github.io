@@ -8,11 +8,22 @@ redirect_from:
 ---
 I am a Master's student at the [KAIST AI Graduate School or School of Computing](https://gsai.kaist.ac.kr), advised by Professor [Se-Young Yun](https://fbsqkd.github.io). I am also a research intern at [LG AI Research](https://www.lgresearch.ai/about/mission).
 
-My research aims to design adaptive and efficient computational frameworks to enable AI systems to solve complex, real-world problems. My work explores how to intelligently orchestrate AI agents, much like how humans collaborate and delegate tasks to solve challenges effectively.
+My research is driven by a core philosophy: imbuing AI systems with the principles of 'Human Collaborative Intelligence.' I believe the next breakthrough in AI will come not from isolated genius, but from modeling the ways humans collaborate—through debate, specialization, and mentorship.
+
+This philosophy guides my two main research pillars:
+
+**Hierarchical Mentorship**: I design [SLM-LLM frameworks](https://arxiv.org/abs/2504.09923) where an AI learns 'meta-cognition'—the ability to recognize its own uncertainty and strategically 'call' for help from a more capable model.
+
+**Peer-to-Peer Debate**: I analyze [multi-agent systems](https://arxiv.org/abs/2505.22960) to understand how 'Diverse Exploration' and 'Collaborative Refinement' can lead to more robust and safe reasoning, especially in complex domains without a single correct answer.
+
+For my future studies, I plan to expand on this experience to build a unified system based on my past research: an AI that learns to self-evolve. I aim to develop an **'Intelligent Self-Reinforcing Loop'** where an AI can autonomously generate, plan, and evaluate its own learning process, ultimately moving toward the human capacity for creative **'Extrapolation'**. If you’re interested in building more practical and intelligent AI, I’d love to connect. Please feel free to reach out!
+
+
+<!-- My research aims to design adaptive and efficient computational frameworks to enable AI systems to solve complex, real-world problems. My work explores how to intelligently orchestrate AI agents, much like how humans collaborate and delegate tasks to solve challenges effectively.
 
 Currently, my research focuses on two main questions: (1) How can we design hierarchical frameworks where small and large language models (SLMs & LLMs) collaborate to maximize computational efficiency? (2) How can we leverage multi-agent debate to enhance the quality and robustness of AI reasoning, especially for problems requiring diverse perspectives?
 
-My recent work focuses on SLM-LLM collaboration and the strategic use of multi-agent systems. If you're interested in building more practical and intelligent AI, I'd love to connect. Please feel free to reach out!
+My recent work focuses on SLM-LLM collaboration and the strategic use of multi-agent systems. If you're interested in building more practical and intelligent AI, I'd love to connect. Please feel free to reach out! -->
 
 
 Affiliations
@@ -31,8 +42,8 @@ Affiliations
 <div>
   <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div>M.S. in Computer Science, Advisor: Se-Young Yun</div>
-    <div style="text-align: right;">2023.09–present</div>
+    <div>M.S. in AI, Advisor: <a href="https://fbsqkd.github.io/">Se-Young Yun</a></div>
+    <div style="text-align: right;">2024.08–present</div>
   </div>
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div>
