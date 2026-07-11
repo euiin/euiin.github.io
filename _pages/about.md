@@ -6,17 +6,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master's student at the [KAIST AI Graduate School or School of Computing](https://gsai.kaist.ac.kr), advised by Professor [Se-Young Yun](https://fbsqkd.github.io). I am also a research intern at [LG AI Research](https://www.lgresearch.ai/about/mission).
+I am an incoming Ph.D. student at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), University of Washington, where I will be advised by [Prof. Natasha Jaques](https://natashajaques.ai/) in the [Social RL Lab](https://socialrl.cs.washington.edu/). I received my Master’s degree from [KAIST AI Graduate School](https://gsai.kaist.ac.kr), advised by [Prof. Se-Young Yun](https://fbsqkd.github.io), and am currently a research intern at [LG AI Research](https://www.lgresearch.ai/about/mission).
 
-My research is driven by a core philosophy: imbuing AI systems with the principles of 'Human Collaborative Intelligence.' I believe the next breakthrough in AI will come not from isolated genius, but from modeling the ways humans collaborate—through debate, specialization, and mentorship.
+My research is driven by a core philosophy: imbuing AI systems with the principles of ‘Human Collaborative Intelligence.’ I believe the next breakthrough in AI will come not from isolated genius, but from modeling the ways humans collaborate—through debate, specialization, and mentorship.
 
 This philosophy guides my two main research pillars:
 
-**Hierarchical Mentorship**: I design [SLM-LLM frameworks](https://arxiv.org/abs/2504.09923) where an AI learns 'meta-cognition'—the ability to recognize its own uncertainty and strategically 'call' for help from a more capable model.
+**Hierarchical Mentorship**: I design [SLM-LLM frameworks](https://arxiv.org/abs/2504.09923) where an AI learns ‘meta-cognition’—the ability to recognize its own uncertainty and strategically ‘call’ for help from a more capable model.
 
-**Peer-to-Peer Debate**: I analyze [multi-agent systems](https://arxiv.org/abs/2505.22960) to understand how 'Diverse Exploration' and 'Collaborative Refinement' can lead to more robust and safe reasoning, especially in complex domains without a single correct answer.
+**Peer-to-Peer Debate**: I analyze [multi-agent systems](https://arxiv.org/abs/2505.22960) to understand how ‘Diverse Exploration’ and ‘Collaborative Refinement’ can lead to more robust and safe reasoning, especially in complex domains without a single correct answer.
 
-For my future studies, I plan to expand on this experience to build a unified system based on my past research: an AI that learns to self-evolve. I aim to develop an **'Intelligent Self-Reinforcing Loop'** where an AI can autonomously generate, plan, and evaluate its own learning process, ultimately moving toward the human capacity for creative **'Extrapolation'**. If you’re interested in building more practical and intelligent AI, I’d love to connect. Please feel free to reach out!
+My research interest spans LLM Efficiency, Reasoning, AI Agents, Chatting Memory, and Personalization. If you’re interested in building more practical and intelligent AI, I’d love to connect. Please feel free to reach out!
+
+📧 Email: [mercyii1120@gmail.com](mailto:mercyii1120@gmail.com)
+
+## News
+
+- *2026.09*: &nbsp;🎓 Starting PhD at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), University of Washington, advised by [Prof. Natasha Jaques](https://natashajaques.ai/) at the [Social RL Lab](https://socialrl.cs.washington.edu/)!
+- *2026.07*: &nbsp;🎊 Serving as a student organizer at [KAIST@ICML 2026](https://kaist-icml.github.io/)!
+- *2026.07*: &nbsp;✈️ Attending ICML 2026 in Seoul!
+- *2025.12*: &nbsp;✈️ Attending NeurIPS 2025 in San Diego!
+- *2025.07*: &nbsp;👩‍💻 Start internship at Superintelligence Lab in LG AI Research!
+- *2025.06*: &nbsp;🎉 One paper is accepted at [ICML’25 MAS Workshop](https://mas-2025.github.io/MAS-2025/)!
+- *2025.04*: &nbsp;👀 One paper has been archived on arXiv
 
 
 <!-- My research aims to design adaptive and efficient computational frameworks to enable AI systems to solve complex, real-world problems. My work explores how to intelligently orchestrate AI agents, much like how humans collaborate and delegate tasks to solve challenges effectively.
