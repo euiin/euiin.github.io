@@ -70,7 +70,7 @@ Affiliations
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/smart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COML Workshop SCARL 2025</div><img src='images/smart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Guiding Reasoning in Small Language Models with LLM Assistance](https://arxiv.org/abs/2504.09923)
@@ -105,7 +105,7 @@ Affiliations
 
 <span class='anchor' id='projects'></span>
 # 📝 Projects
-- *2024.03 - 2024.12*, KT, Efficient LLM architecture & algorithm, OSILAB
+- *2024.03 - 2025.03*, KT, Efficient LLM architecture & algorithm, OSILAB
   - Development of adaptive lightweight edge-interconnected analysis technology with active instant response and rapid learning capability
 
 
@@ -118,7 +118,7 @@ Affiliations
 
 <span class='anchor' id='academic-services'></span>
 # 💯 Reviewer
-- EMNLP 2025, ACL 2025, ICML 2025 Workshop MAS, ACL 2025 SRW
+- ARR Jan 2026, ARR Oct 2025, ARR July 2025, EMNLP 2025, ACL 2025, ICML 2025 Workshop MAS, ACL 2025 SRW
 
 
 <span class='anchor' id='experiences'></span>
