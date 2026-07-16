@@ -18,7 +18,7 @@ This philosophy guides my two main research pillars:
 
 My research interest spans LLM Efficiency, Reasoning, AI Agents, Chatting Memory, and Personalization. If you're interested in building more practical and intelligent AI, I'd love to connect. Please feel free to reach out!
 
-📧 Email: [mercyii1120@gmail.com](mailto:mercyii1120@gmail.com)
+📧 Email: [euiin@cs.washington.edu](mailto:euiin@cs.washington.edu)
 
 <span class='anchor' id='news'></span>
 # 🔥 News
